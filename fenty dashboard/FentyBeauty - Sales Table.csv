@@ -1,0 +1,760 @@
+Order_ID,Date,Name,Gender,E-mail,City,Category,Product_Name,Quantity,Unit_price ,Sold
+SO45347,01/01/2024,Clarence Raji,M,clarence35@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO45345,01/01/2024,Bonnie Yuan,M,bonnie12@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45348,01/01/2024,Leah Guo,M,leah14@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45349,01/01/2024,Candice Sun,M,candice19@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45350,01/01/2024,Ruben Garcia,M,ruben16@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45346,01/01/2024,Dylan Harris,M,dylan43@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45353,01/02/2024,Jack Zimmerman,M,jack24@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,5,$28,$140
+SO45355,01/02/2024,Maurice Sharma,M,maurice10@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,5,$45,$225
+SO45354,01/02/2024,Armando Dominguez,M,armando13@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,5,$35,$175
+SO45356,01/02/2024,Douglas Suri,M,douglas4@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45352,01/02/2024,Daisy Munoz,M,daisy3@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45351,01/02/2024,Seth Jackson,M,seth12@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,3,$29,$87
+SO45359,01/03/2024,Marshall Chavez,M,marshall35@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45363,01/03/2024,Patricia Saunders,M,patricia14@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,3,$29,$87
+SO45362,01/03/2024,Kristopher Fernandez,M,kristopher14@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45361,01/03/2024,Caitlin Richardson,M,caitlin7@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45358,01/03/2024,Alexandra Thomas,M,alexandra74@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45360,01/03/2024,Jonathan Gonzales,M,jonathan16@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45357,01/03/2024,Alfredo Dominguez,M,alfredo14@adventure-works.com,Los Angeles,Foundation,Skintint,5,$45,$225
+SO45367,01/04/2024,Willie Liu,M,willie4@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45369,01/04/2024,Kathleen Navarro,M,kathleen12@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45370,01/04/2024,Shawn Shen,M,shawn4@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45366,01/04/2024,Frank Gomez,F,frank31@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45365,01/04/2024,Jacob Wilson,F,jacob7@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,3,$22,$66
+SO45368,01/04/2024,Trinity Cook,F,trinity18@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45364,01/04/2024,Claudia Li,F,claudia2@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45371,01/05/2024,Jaime Alonso,F,jaime9@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,4,$53,$212
+SO45376,01/05/2024,Edgar Mehta,F,edgar15@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45375,01/05/2024,Allen Fernandez,F,allen14@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45374,01/05/2024,Jordan Henderson,F,jordan1@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45372,01/05/2024,Jarred Gill,F,jarred1@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45373,01/05/2024,Richard Garcia,F,richard10@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45379,01/06/2024,Savannah Travers,F,savannah12@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45378,01/06/2024,Katherine James,F,katherine20@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45384,01/06/2024,Chase Morris,F,chase19@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,3,$43,$129
+SO45386,01/06/2024,Troy Subram,F,troy14@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45381,01/06/2024,Jordan Long,F,jordan6@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45380,01/06/2024,Clarence Jai,F,clarence26@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,5,$29,$145
+SO45382,01/06/2024,Julia Wright,F,julia17@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45377,01/06/2024,Dominique Lopez,F,dominique14@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45383,01/06/2024,Kevin Edwards,F,kevin38@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45385,01/06/2024,Maria Rogers,F,maria3@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45389,01/07/2024,Trevor Bryant,F,trevor18@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45387,01/07/2024,Tiffany Li,F,tiffany3@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45392,01/07/2024,Randall Gomez,F,randall2@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45391,01/07/2024,Raymond Raman,F,raymond14@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,3,$43,$129
+SO45390,01/07/2024,Randall Martin,F,randall1@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO45388,01/07/2024,Isabel Bryant,F,isabel17@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45395,01/08/2024,Lydia Gonzalez,F,lydia17@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45396,01/08/2024,Suzanne Liu,F,suzanne5@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45394,01/08/2024,Jaclyn Andersen,F,jaclyn37@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45393,01/08/2024,Michele Lal,F,michele9@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45398,01/09/2024,Lisa Zhu,F,lisa17@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45397,01/09/2024,Harold McDonald,F,harold11@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45399,01/09/2024,Kaitlyn Powell,F,kaitlyn75@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45409,01/10/2024,Marvin Sanz,F,marvin20@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45405,01/10/2024,Lucas Lewis,F,lucas35@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,3,$28,$84
+SO45403,01/10/2024,Caroline Washington,F,caroline14@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45401,01/10/2024,Julio Suarez,F,julio20@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45400,01/10/2024,Brett Garcia,F,brett14@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45402,01/10/2024,Megan Stewart,F,megan27@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45404,01/10/2024,Natalie Adams,F,natalie58@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45407,01/10/2024,Thomas Adams,F,thomas51@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO45408,01/10/2024,Victoria Diaz,F,victoria68@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO45406,01/10/2024,Hunter Kumar,F,hunter23@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45417,01/11/2024,Cole Richardson,F,cole11@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45415,01/11/2024,Morgan Hall,F,morgan20@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45411,01/11/2024,Kayla Rodriguez,F,kayla19@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45416,01/11/2024,Jessica Perry,F,jessica32@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45413,01/11/2024,Kristi Perez,F,kristi39@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45410,01/11/2024,Donald Srini,F,donald10@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45412,01/11/2024,Chloe Sanders,F,chloe65@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45420,01/11/2024,Orlando Serrano,F,orlando16@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45419,01/11/2024,Alejandro Liu,F,alejandro6@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,5,$53,$265
+SO45421,01/11/2024,Mackenzie Hill,F,mackenzie33@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,3,$22,$66
+SO45418,01/11/2024,Kristopher Gonzalez,F,kristopher17@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45414,01/11/2024,Kelli Kumar,F,kelli30@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45423,01/12/2024,Beth Gill,F,beth16@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45424,01/12/2024,Alexa Rivera,F,alexa15@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45422,01/12/2024,Jared Moyer,F,jared16@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45431,01/13/2024,James Miller,F,james81@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,4,$53,$212
+SO45430,01/13/2024,Natalie Roberts,F,natalie47@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45429,01/13/2024,Justin Griffin,F,justin18@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45427,01/13/2024,Ivan Suri,F,ivan0@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45426,01/13/2024,Kari Smith,F,kari9@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45425,01/13/2024,Jaime Suarez,F,jaime21@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45428,01/13/2024,Ian Richardson,F,ian76@adventure-works.com,Los Angeles,Foundation,Skintint,4,$45,$180
+SO45434,01/14/2024,Nicholas Thompson,F,nicholas16@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,3,$53,$159
+SO45433,01/14/2024,Bradley Nara,F,bradley19@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45432,01/14/2024,Pamela Subram,F,pamela16@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45439,01/14/2024,Jaime Xie,F,jaime27@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45435,01/14/2024,Jim Rodman,F,jim4@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45438,01/14/2024,Paige Howard,F,paige35@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45436,01/14/2024,Joshua Taylor,F,joshua10@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45437,01/14/2024,Lucas Blue,F,lucas85@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,3,$35,$105
+SO45442,01/15/2024,Justin Bryant,F,justin15@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45443,01/15/2024,Julia Thompson,F,julia37@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45444,01/15/2024,Claudia Ye,F,claudia8@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45445,01/15/2024,Stacy Dominguez,F,stacy13@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45440,01/15/2024,Daisy Romero,F,daisy5@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45441,01/15/2024,Jasmine Torres,F,jasmine32@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45447,01/16/2024,Gloria Ortega,F,gloria22@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45448,01/16/2024,Terrance Martinez,F,terrance15@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45446,01/16/2024,Jenna Parker,F,jenna7@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45451,01/17/2024,Hailey Turner,F,hailey47@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45450,01/17/2024,Carson Jenkins,F,carson5@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45452,01/17/2024,Cedric Cai,F,cedric21@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45449,01/17/2024,Krista Martin,F,krista0@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO45453,01/18/2024,Donna Xie,F,donna3@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,5,$37,$185
+SO45454,01/18/2024,Megan Flores,F,megan61@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45456,01/19/2024,Elijah Powell,F,elijah12@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,4,$25,$100
+SO45460,01/19/2024,Julio Navarro,F,julio10@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45459,01/19/2024,Brad Shan,F,brad10@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45458,01/19/2024,Alvin Jai,F,alvin33@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO45455,01/19/2024,Ebony Garcia,F,ebony15@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,4,$53,$212
+SO45457,01/19/2024,Christian Butler,F,christian29@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45461,01/20/2024,Alexis Moore,F,alexis7@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO45462,01/20/2024,Hannah Foster,F,hannah37@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45463,01/20/2024,Jonathan Hill,F,jonathan43@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45464,01/20/2024,Alvin Sharma,F,alvin32@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45465,01/20/2024,Carlos Morgan,F,carlos15@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45466,01/21/2024,Meagan Prasad,F,meagan9@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45476,01/22/2024,Wyatt Williams,F,wyatt2@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45475,01/22/2024,Alfredo Suarez,F,alfredo20@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,5,$20,$100
+SO45474,01/22/2024,Carl Raji,F,carl20@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45469,01/22/2024,Ethan Thompson,F,ethan49@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45473,01/22/2024,Tara Xu,F,tara5@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45472,01/22/2024,Meredith Martinez,F,meredith17@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45468,01/22/2024,Kyle Bryant,F,kyle13@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Cream Universal,4,$22,$88
+SO45467,01/22/2024,Dustin Deng,F,dustin1@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45471,01/22/2024,Erin Cook,F,erin25@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45470,01/22/2024,Cameron Henderson,F,cameron0@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45478,01/23/2024,Isaiah Edwards,F,isaiah23@adventure-works.com,Chicago,Foundation,Skintint,1,$45,$45
+SO45477,01/23/2024,Brittney Hu,F,brittney19@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45479,01/23/2024,Sheena Deng,F,sheena1@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45481,01/23/2024,Robin Moreno,F,robin3@adventure-works.com,Chicago,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45480,01/23/2024,Lawrence Gutierrez,F,lawrence9@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45488,01/24/2024,Martin Perez,F,martin5@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45487,01/24/2024,Shawna Andersen,F,shawna14@adventure-works.com,Chicago,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45489,01/24/2024,Stanley Madan,F,stanley8@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45484,01/24/2024,Juan James,F,juan9@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,5,$43,$215
+SO45490,01/24/2024,Eric Foster,F,eric23@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45483,01/24/2024,Adriana Chandra,F,adriana2@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45486,01/24/2024,Dominic Srini,F,dominic8@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45485,01/24/2024,Jacqueline Powell,F,jacqueline9@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45482,01/24/2024,Brandy Sanchez,F,brandy16@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45493,01/25/2024,Seth Brown,F,seth4@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45495,01/25/2024,Krystal Gao,F,krystal15@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45494,01/25/2024,Kari Martinez,F,kari18@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,4,$53,$212
+SO45492,01/25/2024,Jared Kelly,F,jared4@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45491,01/25/2024,Justin Brown,F,justin35@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45502,01/26/2024,Timothy Young,F,timothy42@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45497,01/26/2024,Ian Wilson,F,ian8@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45498,01/26/2024,Kayla Flores,F,kayla36@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45496,01/26/2024,Rachel Cox,F,rachel39@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45499,01/26/2024,Bailey Hernandez,F,bailey38@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45501,01/26/2024,Heidi Chandra,F,heidi4@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45505,01/26/2024,Carla Rana,F,carla13@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45506,01/26/2024,Franklin Sun,F,franklin12@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45507,01/26/2024,Stefanie Rana,F,stefanie8@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45503,01/26/2024,Isabella Bryant,F,isabella28@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO45504,01/26/2024,Jerry Ferrier,F,jerry22@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45500,01/26/2024,Lawrence Blanco,F,lawrence14@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45508,01/27/2024,Roberto Sanz,F,roberto18@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45509,01/27/2024,Shaun Sharma,F,shaun10@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45510,01/27/2024,Lauren Washington,F,lauren60@adventure-works.com,New York,Foundation,Skintint,3,$45,$135
+SO45515,01/28/2024,Bridget She,F,bridget1@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45511,01/28/2024,Steve Wagner,F,steve5@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45512,01/28/2024,Luis Wang,F,luis24@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45513,01/28/2024,Faith Murphy,F,faith32@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45514,01/28/2024,Thomas Young,F,thomas53@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45582,01/29/2024,Lucas Murphy,F,lucas86@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45581,01/29/2024,Trinity Richardson,F,trinity9@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45583,01/29/2024,Kyle Foster,F,kyle11@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45585,01/29/2024,Isaiah Ramirez,F,isaiah6@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45580,01/29/2024,Cassie Andersen,F,cassie11@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45584,01/29/2024,Ronald Madan,F,ronald9@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45591,01/30/2024,Sebastian Torres,F,sebastian5@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45590,01/30/2024,Roger Lu,F,roger16@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45589,01/30/2024,Christy Liu,F,christy4@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45592,01/30/2024,Orlando Ashe,F,orlando5@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45588,01/30/2024,Jenny Rai,F,jenny40@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO45587,01/30/2024,Nina Yuan,F,nina7@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45586,01/30/2024,Joel Prasad,F,joel8@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45595,01/31/2024,Shannon Huang,F,shannon6@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45594,01/31/2024,Christian Thomas,F,christian46@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45601,01/31/2024,Orlando Carlson,F,orlando18@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45593,01/31/2024,Nelson Ortega,F,nelson21@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45597,01/31/2024,Jenna Scott,F,jenna13@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45598,01/31/2024,Elijah Yang,F,elijah1@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45600,01/31/2024,Holly Martinez,F,holly17@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45599,01/31/2024,Danny Ortega,F,danny23@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45596,01/31/2024,Jessie Gao,F,jessie19@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45607,02/01/2024,Louis Nath,F,louis34@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45606,02/01/2024,Devon Deng,F,devon0@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45609,02/01/2024,Max Ferrier,F,max8@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45608,02/01/2024,Frank Carlson,F,frank26@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45603,02/01/2024,Haley Richardson,F,haley10@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45604,02/01/2024,Victoria Russell,F,victoria66@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45605,02/01/2024,Destiny Rogers,F,destiny26@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45602,02/01/2024,Tamara Zhu,F,tamara3@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45611,02/02/2024,Devin Nelson,F,devin32@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45610,02/02/2024,Julia Coleman,F,julia72@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45612,02/02/2024,Crystal Gao,F,crystal16@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45616,02/03/2024,Abby Arthur,F,abby5@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,5,$53,$265
+SO45613,02/03/2024,Christian Hughes,F,christian26@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45621,02/03/2024,Clayton Nara,F,clayton34@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45618,02/03/2024,Dawn Lal,F,dawn32@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,5,$53,$265
+SO45620,02/03/2024,Roy Moreno,F,roy27@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45619,02/03/2024,Alex Hill,F,alex42@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45615,02/03/2024,Gabriel Kumar,F,gabriel25@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45617,02/03/2024,Corey Kumar,F,corey7@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45614,02/03/2024,Isaac Brooks,F,isaac1@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45627,02/04/2024,Logan Clark,F,logan71@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45628,02/04/2024,Casey Navarro,F,casey33@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45630,02/04/2024,Brenda Perez,F,brenda25@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45629,02/04/2024,Julio Ortega,F,julio23@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45625,02/04/2024,Hunter Rodriguez,F,hunter53@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,5,$22,$110
+SO45624,02/04/2024,Jenna Wright,F,jenna19@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45626,02/04/2024,Victoria Stewart,F,victoria24@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45623,02/04/2024,Jessica Powell,F,jessica33@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45622,02/04/2024,Tamara Tang,F,tamara15@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45633,02/05/2024,Daisuke Yanagishima,F,daisuke0@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45632,02/05/2024,Bonnie Xie,F,bonnie8@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45631,02/05/2024,Clarence Anand,F,clarence36@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,3,$35,$105
+SO45634,02/05/2024,Edwin Lin,F,edwin8@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45639,02/06/2024,Derek Shan,F,derek9@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45640,02/06/2024,Gloria Alonso,F,gloria8@adventure-works.com,New York,Lipstick,Icon Lipstick,3,$29,$87
+SO45635,02/06/2024,Lucas Sanchez,F,lucas88@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45636,02/06/2024,Spencer Russell,F,spencer22@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45637,02/06/2024,Ariana Cook,F,ariana19@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45638,02/06/2024,Courtney Nelson,F,courtney7@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45642,02/07/2024,Angela Perry,F,angela10@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45641,02/07/2024,Byron Ortega,F,byron16@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,3,$43,$129
+SO45648,02/08/2024,Warren Zhou,F,warren24@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45645,02/08/2024,Adrienne Torres,F,adrienne8@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45646,02/08/2024,Maria Carter,F,maria53@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO45643,02/08/2024,Douglas Kapoor,F,douglas5@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45647,02/08/2024,Katherine Wright,F,katherine68@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45644,02/08/2024,Casey She,F,casey0@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45650,02/09/2024,Mariah Murphy,F,mariah39@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45649,02/09/2024,Jade Bailey,F,jade13@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45653,02/09/2024,Jessie Ramos,F,jessie36@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45651,02/09/2024,Tasha Jai,F,tasha12@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45652,02/09/2024,Nathaniel Watson,F,nathaniel1@adventure-works.com,New York,Lipstick,Icon Lipstick,4,$29,$116
+SO45661,02/10/2024,Karla Nara,F,karla18@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45660,02/10/2024,Clarence Liu,F,clarence40@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45656,02/10/2024,Sean Brooks,F,sean8@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO45655,02/10/2024,Jose Patterson,F,jose33@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,5,$25,$125
+SO45657,02/10/2024,Taylor Howard,F,taylor14@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45658,02/10/2024,Robert Lee,F,robert82@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45663,02/10/2024,Stacy Alvarez,F,stacy6@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45662,02/10/2024,Gabriella Sanders,F,gabriella1@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45654,02/10/2024,Riley Long,F,riley7@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45659,02/10/2024,Denise Subram,F,denise14@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,3,$37,$111
+SO45665,02/11/2024,Arthur Washington,F,arthur45@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45664,02/11/2024,Jon Ye,F,jon29@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45666,02/11/2024,Ethan Garcia,F,ethan52@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45667,02/11/2024,Arthur Mehta,F,arthur16@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,3,$53,$159
+SO45673,02/12/2024,Amy Wu,F,amy14@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,5,$25,$125
+SO45674,02/12/2024,Lacey Hu,F,lacey33@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45672,02/12/2024,Shannon Hu,F,shannon19@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,5,$53,$265
+SO45675,02/12/2024,Toni Patel,F,toni2@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45677,02/12/2024,Dustin Chander,F,dustin16@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45668,02/12/2024,Jon Luo,F,jon46@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,3,$53,$159
+SO45671,02/12/2024,Mariah Wood,F,mariah6@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45676,02/12/2024,Marc Torres,F,marc15@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,3,$28,$84
+SO45669,02/12/2024,Joan Washington,F,joan7@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45670,02/12/2024,Aidan Ross,F,aidan4@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,3,$28,$84
+SO45679,02/13/2024,Alberto Navarro,F,alberto11@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45678,02/13/2024,Megan Barnes,F,megan53@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,5,$53,$265
+SO45680,02/13/2024,Haley Torres,F,haley14@adventure-works.com,New York,Lipstick,Icon Lipstick,4,$29,$116
+SO45681,02/13/2024,Gloria Munoz,F,gloria7@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45682,02/13/2024,Ronnie Lu,F,ronnie9@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45690,02/14/2024,Erika Romero,F,erika6@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45689,02/14/2024,Ricky Gutierrez,F,ricky11@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,4,$43,$172
+SO45685,02/14/2024,Adrienne Blanco,F,adrienne12@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45684,02/14/2024,Donald Chandra,F,donald4@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,3,$35,$105
+SO45691,02/14/2024,Angela Henderson,F,angela7@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45683,02/14/2024,Ian Martin,F,ian14@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45688,02/14/2024,Emma Cooper,F,emma35@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45687,02/14/2024,Elizabeth Clark,F,elizabeth23@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45686,02/14/2024,Richard Rivera,F,richard89@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45698,02/15/2024,Aidan Wood,F,aidan2@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,5,$53,$265
+SO45699,02/15/2024,Mary Green,F,mary28@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45693,02/15/2024,Teresa Gutierrez,F,teresa11@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,4,$28,$112
+SO45694,02/15/2024,Morgan Bennett,F,morgan71@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45692,02/15/2024,Victor Carlson,F,victor18@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45696,02/15/2024,Rafael Xie,F,rafael26@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45695,02/15/2024,Seth Phillips,F,seth42@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45697,02/15/2024,Mya Gonzales,F,mya17@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO45701,02/16/2024,Nicole Taylor,F,nicole9@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45700,02/16/2024,Jonathan Phillips,F,jonathan35@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45702,02/16/2024,Ann Malhotra,F,ann10@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45703,02/16/2024,Darryl Liu,F,darryl4@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO45709,02/17/2024,Tina Smith,F,tina10@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45710,02/17/2024,Geoffrey Fernandez,F,geoffrey13@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45708,02/17/2024,Ruben Patel,F,ruben3@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45711,02/17/2024,Mariah Barnes,F,mariah7@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,4,$31,$124
+SO45705,02/17/2024,Jackson Phillips,F,jackson36@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45706,02/17/2024,David Diaz,F,david55@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45712,02/17/2024,Meagan Madan,F,meagan8@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45707,02/17/2024,Kaylee Cook,F,kaylee18@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45704,02/17/2024,Stacy Torres,F,stacy12@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45713,02/18/2024,Colleen Cai,F,colleen22@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45714,02/18/2024,Cameron Lewis,F,cameron39@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45715,02/18/2024,Rosa Liang,F,rosa16@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45716,02/18/2024,Tony Kumar,F,tony10@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45720,02/19/2024,Tina Gonzalez,F,tina20@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45719,02/19/2024,Elijah Diaz,F,elijah23@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45721,02/19/2024,Candace Raman,F,candace12@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45718,02/19/2024,Lauren Martinez,M,lauren35@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45717,02/19/2024,Elijah Ross,M,elijah7@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,3,$37,$111
+SO45722,02/19/2024,Rafael Tang,M,rafael27@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45727,02/20/2024,Nichole She,M,nichole0@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45723,02/20/2024,Katelyn Sanchez,M,katelyn26@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO45724,02/20/2024,Maurice Lal,M,maurice9@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45726,02/20/2024,Lance Gill,M,lance13@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,4,$53,$212
+SO45725,02/20/2024,Rosa Zhang,M,rosa0@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45728,02/21/2024,Madison Hughes,M,madison47@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45731,02/21/2024,Hunter Griffin,M,hunter16@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45734,02/21/2024,Haley Powell,M,haley27@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,3,$35,$105
+SO45733,02/21/2024,Ryan Smith,M,ryan39@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45732,02/21/2024,Dakota Ross,M,dakota3@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45739,02/21/2024,Kate Raji,M,kate18@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45738,02/21/2024,Byron Carlson,M,byron12@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45736,02/21/2024,Phil Spencer,M,phil0@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45737,02/21/2024,Jay Lopez,M,jay23@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45735,02/21/2024,Cristina Nara,M,cristina15@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO45729,02/21/2024,Robin Sanz,M,robin15@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45730,02/21/2024,Phillip Sullivan,M,phillip14@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45740,02/22/2024,Robin Carlson,M,robin14@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45741,02/22/2024,Kristen Hu,M,kristen17@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45743,02/22/2024,Timothy Scott,M,timothy37@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,4,$53,$212
+SO45742,02/22/2024,Andy Vazquez,F,andy19@adventure-works.com,New York,Lipstick,Icon Lipstick,4,$29,$116
+SO45744,02/22/2024,Ann Gonzalez,F,ann23@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,4,$35,$140
+SO45747,02/23/2024,Justin Washington,F,justin10@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45751,02/23/2024,Charles Gonzalez,F,charles37@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45749,02/23/2024,Steve Gao,F,steve17@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,4,$53,$212
+SO45745,02/23/2024,Martin Prasad,F,martin14@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO45752,02/23/2024,Hector Vazquez,F,hector12@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45753,02/23/2024,Abby Sanchez,F,abby17@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45748,02/23/2024,Terry Jai,F,terry14@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45746,02/23/2024,Zachary Flores,F,zachary11@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45750,02/23/2024,Nicholas Lee,F,nicholas2@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO45755,02/24/2024,Logan Chow,F,logan25@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45754,02/24/2024,Austin Bryant,F,austin14@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45756,02/24/2024,Zachary Moore,F,zachary37@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45761,02/25/2024,Isaiah Wright,F,isaiah45@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45759,02/25/2024,Taylor Lewis,F,taylor67@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45760,02/25/2024,Andy Alvarez,F,andy9@adventure-works.com,New York,Concealer,Match Stix Shimmer Skinstick,3,$35,$105
+SO45762,02/25/2024,Barry Martinez,F,barry18@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,3,$25,$75
+SO45757,02/25/2024,Trisha Lin,F,trisha2@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45758,02/25/2024,Shannon Navarro,F,shannon31@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45763,02/25/2024,Tabitha Moreno,F,tabitha26@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,4,$35,$140
+SO45764,02/25/2024,Douglas Rodriguez,F,douglas23@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45770,02/26/2024,Susan She,F,susan34@adventure-works.com,New York,Foundation,Skintint,2,$45,$90
+SO45769,02/26/2024,Jaime Moreno,F,jaime48@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,4,$25,$100
+SO45767,02/26/2024,Orlando Vazquez,F,orlando14@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO45768,02/26/2024,Zachary Anderson,F,zachary39@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45766,02/26/2024,Noah Coleman,F,noah2@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,5,$53,$265
+SO45765,02/26/2024,Ricky Vazquez,F,ricky15@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO45774,02/27/2024,Stephanie Collins,F,stephanie52@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45771,02/27/2024,Danielle Reed,F,danielle23@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,5,$43,$215
+SO45773,02/27/2024,Niï¿½ia Anand,F,niï¿½ia0@adventure-works.com,New York,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45772,02/27/2024,Olivia Ramirez,F,olivia42@adventure-works.com,New York,Lipstick,Icon Lipstick,3,$29,$87
+SO45776,02/28/2024,Megan Harris,F,megan16@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45777,02/28/2024,Sarah Garcia,F,sarah18@adventure-works.com,Texas,Lipstick,Icon Lipstick,1,$29,$29
+SO45775,02/28/2024,Josï¿½ Saraiva,F,josï¿½5@adventure-works.com,Texas,Foundation,Skintint,2,$45,$90
+SO45778,02/28/2024,Samuel Walker,F,samuel72@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45817,03/01/2024,Riley Simmons,F,riley13@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45818,03/01/2024,Ariana Morgan,F,ariana20@adventure-works.com,Texas,Lipstick,Icon Lipstick,2,$29,$58
+SO45816,03/01/2024,Taylor Garcia,F,taylor63@adventure-works.com,Texas,Lipstick,Icon Lipstick,3,$29,$87
+SO45820,03/01/2024,Shawn Tang,F,shawn6@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45819,03/01/2024,George Garcia,F,george21@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45822,03/02/2024,Mindy Xu,F,mindy9@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45823,03/02/2024,Veronica Kapoor,F,veronica1@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,5,$45,$225
+SO45821,03/02/2024,Gloria Torres,F,gloria12@adventure-works.com,Texas,Lipstick,Icon Lipstick,2,$29,$58
+SO45829,03/03/2024,Darren Malhotra,F,darren7@adventure-works.com,Texas,Lipgloss,Poutsicle Hydrating Lip,4,$31,$124
+SO45830,03/03/2024,Jamie Guo,F,jamie21@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45831,03/03/2024,Rodney Blanco,F,rodney11@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45827,03/03/2024,Jon Pal,F,jon8@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45825,03/03/2024,Dennis Ware,F,dennis0@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45826,03/03/2024,Jonathan Powell,F,jonathan8@adventure-works.com,Texas,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45832,03/03/2024,Joe Rana,F,joe14@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45824,03/03/2024,Mackenzie Campbell,F,mackenzie29@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45828,03/03/2024,Austin Foster,F,austin12@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45836,03/04/2024,Nelson Harrison,F,nelson9@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO45835,03/04/2024,Victoria Morris,F,victoria26@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45839,03/04/2024,Philip Carlson,F,philip17@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45833,03/04/2024,Hannah Patterson,F,hannah33@adventure-works.com,Texas,Foundation,Skintint,2,$45,$90
+SO45834,03/04/2024,Joe Torres,F,joe35@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45838,03/04/2024,Gina Dominguez,F,gina13@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45837,03/04/2024,Clarence Ye,F,clarence5@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45844,03/05/2024,Andrew Rodriguez,F,andrew27@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45843,03/05/2024,Sierra Roberts,F,sierra3@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45842,03/05/2024,Edward Lewis,F,edward43@adventure-works.com,Texas,Lipstick,Icon Lipstick,1,$29,$29
+SO45840,03/05/2024,Latasha Rubio,F,latasha21@adventure-works.com,Texas,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO45841,03/05/2024,Jaclyn Chander,F,jaclyn39@adventure-works.com,Texas,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45848,03/06/2024,Adam Gonzalez,F,adam39@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45849,03/06/2024,Raul Luo,F,raul6@adventure-works.com,Texas,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45845,03/06/2024,Benjamin Shan,F,benjamin33@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45846,03/06/2024,Joseph Jackson,F,joseph18@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45847,03/06/2024,Gabriel Chow,F,gabriel22@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45856,03/07/2024,Kristina Lopez,F,kristina17@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45852,03/07/2024,Chad Shen,F,chad3@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45853,03/07/2024,Isabelle Barnes,F,isabelle3@adventure-works.com,Texas,Lipstick,Icon Lipstick,2,$29,$58
+SO45854,03/07/2024,Dominique Subram,F,dominique10@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45855,03/07/2024,Grant Pal,F,grant14@adventure-works.com,Texas,Lipstick,Icon Lipstick,1,$29,$29
+SO45851,03/07/2024,Greg Taylor,F,greg10@adventure-works.com,Texas,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45850,03/07/2024,Seth Mitchell,F,seth38@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45857,03/07/2024,Warren Andersen,F,warren2@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45858,03/07/2024,Dorothy Robinson,F,dorothy3@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45859,03/08/2024,Lindsey Deng,F,lindsey1@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,4,$53,$212
+SO45861,03/08/2024,Aaron Wright,F,aaron52@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45860,03/08/2024,Anthony Rodriguez,F,anthony6@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45866,03/09/2024,Kelli Wu,F,kelli7@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45865,03/09/2024,Riley Reed,F,riley39@adventure-works.com,Texas,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45864,03/09/2024,Katrina Chande,F,katrina13@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,3,$37,$111
+SO45863,03/09/2024,Ryan Zhang,F,ryan27@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45862,03/09/2024,Ernest Xu,F,ernest12@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45868,03/10/2024,Dana Ruiz,F,dana18@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO45869,03/10/2024,Jessica Martin,F,jessica62@adventure-works.com,Texas,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45867,03/10/2024,Cameron Moore,F,cameron48@adventure-works.com,Texas,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45871,03/10/2024,Dana Ramos,F,dana10@adventure-works.com,Texas,Foundation,Skintint,1,$45,$45
+SO45870,03/10/2024,Mark Bebbington,F,mark8@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45876,03/11/2024,Brittney Zhang,F,brittney0@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45874,03/11/2024,Ashley Alexander,F,ashley46@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45875,03/11/2024,Christopher Thomas,F,christopher11@adventure-works.com,Texas,Lipstick,Icon Lipstick,3,$29,$87
+SO45873,03/11/2024,Ashlee Jai,F,ashlee18@adventure-works.com,Texas,Foundation,Skintint,2,$45,$90
+SO45877,03/11/2024,Jaclyn Zheng,F,jaclyn21@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45872,03/11/2024,Cindy Patel,F,cindy3@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45884,03/12/2024,Johnny Chavez,F,johnny16@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45882,03/12/2024,Allison Gonzalez,F,allison31@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45880,03/12/2024,Natalie Cook,F,natalie5@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45889,03/12/2024,Adrienne Gomez,F,adrienne1@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45883,03/12/2024,Jessie Wang,F,jessie7@adventure-works.com,Texas,Highlighter,Killawatt Freestyle Highlighter,3,$53,$159
+SO45885,03/12/2024,Larry Vazquez,F,larry17@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,5,$22,$110
+SO45878,03/12/2024,Teresa Vazquez,F,teresa15@adventure-works.com,Texas,Lipgloss,Gloss Bomb Cream Universal,1,$22,$44
+SO45887,03/12/2024,Jessica Ross,F,jessica28@adventure-works.com,Texas,Lipstick,Icon Lipstick,2,$29,$58
+SO45888,03/12/2024,Valerie Wang,F,valerie2@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$106
+SO45879,03/12/2024,Dominic Raman,F,dominic12@adventure-works.com,Texas,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45881,03/12/2024,Isabelle Bryant,F,isabelle16@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,4,$45,$180
+SO45886,03/12/2024,Devin Griffin,F,devin58@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45893,03/13/2024,Connor Bryant,F,connor12@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,5,$35,$175
+SO45892,03/13/2024,Valerie She,F,valerie25@adventure-works.com,Texas,Lipstick,Icon Lipstick,2,$29,$58
+SO45890,03/13/2024,Frank Navarro,F,frank17@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO45891,03/13/2024,Mitchell Kumar,F,mitchell7@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45895,03/14/2024,Benjamin Taylor,F,benjamin43@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45896,03/14/2024,Bonnie Nath,F,bonnie24@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45894,03/14/2024,Keith Lal,F,keith11@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45904,03/15/2024,Cesar Mehta,F,cesar13@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO45907,03/15/2024,Trisha Liu,F,trisha22@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45906,03/15/2024,Ernest Zhu,F,ernest14@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45905,03/15/2024,Rafael She,F,rafael23@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45902,03/15/2024,Faith Simmons,F,faith14@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45903,03/15/2024,Levi Subram,F,levi12@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45898,03/15/2024,Cameron White,F,cameron31@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45901,03/15/2024,Janet Dominguez,F,janet18@adventure-works.com,Los Angeles,Foundation,Skintint,5,$45,$225
+SO45899,03/15/2024,Morgan Miller,F,morgan29@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO45900,03/15/2024,Haley Alexander,F,haley38@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45897,03/15/2024,Mathew Rubio,F,mathew17@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO45908,03/15/2024,Kaylee Hill,F,kaylee35@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45909,03/15/2024,Jenny Zheng,F,jenny21@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO45916,03/16/2024,Sharon Salavaria,F,sharon4@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO45914,03/16/2024,Virginia Gonzalez,F,virginia21@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45915,03/16/2024,Jaclyn Nara,F,jaclyn40@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45911,03/16/2024,Devin Coleman,F,devin44@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45910,03/16/2024,Miranda Long,F,miranda9@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,5,$31,$155
+SO45912,03/16/2024,Vanessa Washington,F,vanessa14@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,5,$53,$265
+SO45913,03/16/2024,Olivia Torres,F,olivia39@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45920,03/17/2024,Morgan Rodriguez,F,morgan41@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45922,03/17/2024,Jose Thompson,F,jose77@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45921,03/17/2024,Brendan Chande,F,brendan13@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45919,03/17/2024,Jessica Alexander,F,jessica43@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45923,03/17/2024,Abigail Brooks,F,abigail22@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45925,03/17/2024,George Gonzalez,F,george25@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,3,$37,$111
+SO45918,03/17/2024,Tamara Chander,F,tamara27@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45917,03/17/2024,Deanna Ramos,F,deanna44@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45924,03/17/2024,Stacy Martin,F,stacy1@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,2,$53,$106
+SO45928,03/18/2024,Mary Patterson,F,mary40@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,3,$53,$159
+SO45929,03/18/2024,Aimee She,F,aimee17@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45927,03/18/2024,Isabel Jenkins,F,isabel7@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45926,03/18/2024,Benjamin Coleman,F,benjamin7@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45931,03/18/2024,Tasha Kumar,F,tasha8@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45932,03/18/2024,Scott Rodgers,F,scott10@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO45930,03/18/2024,Jaclyn Huang,F,jaclyn6@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45935,03/19/2024,Franklin Xu,F,franklin11@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO45933,03/19/2024,Sarah Jackson,F,sarah14@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45934,03/19/2024,Angel Baker,F,angel30@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45936,03/19/2024,Fernando King,F,fernando25@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO45938,03/20/2024,Ariana Sanchez,F,ariana22@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO45946,03/20/2024,Meagan Rana,F,meagan11@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45947,03/20/2024,Dawn Huang,F,dawn7@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45939,03/20/2024,Elizabeth Garcia,F,elizabeth20@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO45937,03/20/2024,Miguel Baker,F,miguel33@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45943,03/20/2024,Kaylee Sanders,F,kaylee2@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO45944,03/20/2024,Sharon Rai,F,sharon23@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45940,03/20/2024,Dawn Raji,F,dawn45@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45941,03/20/2024,Marshall Yuan,F,marshall28@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45942,03/20/2024,Colleen Harrison,F,colleen19@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,4,$29,$116
+SO45945,03/20/2024,Orlando Gutierrez,F,orlando10@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45950,03/21/2024,George Fernandez,F,george22@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO45949,03/21/2024,Tanya Jimenez,F,tanya1@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO45948,03/21/2024,Andrea Richardson,F,andrea10@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45951,03/21/2024,Rachael Rodriguez,F,rachael18@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO45952,03/21/2024,Randy Xu,F,randy14@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45954,03/22/2024,Antonio Washington,F,antonio13@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO45956,03/22/2024,Janet Browning,F,janet21@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45953,03/22/2024,Megan Anderson,F,megan13@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45955,03/22/2024,Ethan Foster,F,ethan12@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO45965,03/23/2024,Colin Shan,F,colin33@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45964,03/23/2024,Ioannis Xylaras,F,ioannis0@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45962,03/23/2024,Louis Zhang,F,louis38@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO45963,03/23/2024,Anna Watson,F,anna22@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO45957,03/23/2024,Juan Gray,F,juan16@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,4,$45,$180
+SO45958,03/23/2024,Daniel Garcia,F,daniel8@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO45959,03/23/2024,Faith Patterson,F,faith9@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45966,03/23/2024,Brandy Saunders,F,brandy6@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45960,03/23/2024,Jessica Brown,F,jessica51@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45961,03/23/2024,Hannah Wood,F,hannah25@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO45970,03/24/2024,Antonio Patterson,F,antonio10@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO45968,03/24/2024,Fernando Flores,F,fernando55@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO45969,03/24/2024,Jay Madan,F,jay14@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45967,03/24/2024,Roger Sharma,F,roger37@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45972,03/25/2024,Heidi Sara,F,heidi12@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO45977,03/25/2024,Shawn Chander,F,shawn17@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45976,03/25/2024,Jill Ortega,F,jill30@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO45973,03/25/2024,Gavin Diaz,F,gavin20@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,3,$43,$129
+SO45978,03/25/2024,Latasha Munoz,F,latasha7@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO45971,03/25/2024,Carla Raman,F,carla14@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45975,03/25/2024,Robert Davis,F,robert64@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO45974,03/25/2024,Zachary Thompson,F,zachary46@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45981,03/26/2024,Marvin Moreno,F,marvin7@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45982,03/26/2024,Kristine Gill,F,kristine14@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45979,03/26/2024,Nichole Tang,F,nichole4@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO45980,03/26/2024,Clayton Andersen,F,clayton31@adventure-works.com,Chicago,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45990,03/27/2024,Heather Zheng,F,heather18@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO45989,03/27/2024,Clarence Gao,F,clarence8@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45988,03/27/2024,Devin Martinez,F,devin16@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45985,03/27/2024,Elizabeth Weisman,F,elizabeth6@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45984,03/27/2024,Caroline Butler,F,caroline15@adventure-works.com,Chicago,Foundation,Skintint,1,$45,$45
+SO45986,03/27/2024,Chase Kelly,F,chase3@adventure-works.com,Chicago,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO45991,03/27/2024,Audrey Ramos,F,audrey19@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO45987,03/27/2024,Jason Mitchell,F,jason40@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO45983,03/27/2024,Isabella Ward,F,isabella2@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO45997,03/28/2024,Charles Reed,F,charles68@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO45996,03/28/2024,Tyler Brown,F,tyler9@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO45994,03/28/2024,Emma Sanchez,F,emma25@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO45993,03/28/2024,Ian Long,F,ian50@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO45992,03/28/2024,Pedro Sara,F,pedro10@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO45998,03/28/2024,Carly Anand,F,carly20@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO45995,03/28/2024,Aidan Diaz,F,aidan23@adventure-works.com,Chicago,Highlighter,Killawatt Freestyle Highlighter,3,$53,$159
+SO46001,03/29/2024,Olivia Foster,F,olivia61@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO45999,03/29/2024,Brianna Martin,F,brianna13@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,5,$25,$125
+SO46006,03/29/2024,Cesar Chandra,F,cesar2@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,1,$37,$37
+SO46007,03/29/2024,Wendy Carlson,F,wendy17@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,2,$53,$106
+SO46009,03/29/2024,Roy Sanz,F,roy40@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO46008,03/29/2024,Rachael Sai,F,rachael5@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,3,$35,$105
+SO46000,03/29/2024,Haley Henderson,F,haley24@adventure-works.com,Los Angeles,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46003,03/29/2024,Christian Ross,F,christian18@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46002,03/29/2024,Jessie Alonso,F,jessie6@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46004,03/29/2024,Alyssa Morgan,F,alyssa30@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46005,03/29/2024,Miguel Lee,F,miguel22@adventure-works.com,Los Angeles,Foundation,Skintint,5,$45,$225
+SO46018,03/30/2024,Seth Williams,F,seth2@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,4,$29,$116
+SO46013,03/30/2024,Brooke Richardson,F,brooke9@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46010,03/30/2024,Jermaine Lopez,F,jermaine15@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,3,$28,$84
+SO46011,03/30/2024,Deborah Goel,F,deborah21@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO46016,03/30/2024,Kurt Sharma,F,kurt9@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46017,03/30/2024,Katelyn Parker,F,katelyn30@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO46022,03/30/2024,Kelsey Becker,F,kelsey19@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46019,03/30/2024,Seth Turner,F,seth41@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO46020,03/30/2024,Raymond Arthur,F,raymond8@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46021,03/30/2024,Jeffery Lu,F,jeffery12@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46012,03/30/2024,Veronica Rana,F,veronica12@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO46015,03/30/2024,Joshua Rodriguez,F,joshua22@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO46014,03/30/2024,Kaitlyn Long,F,kaitlyn76@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO46119,03/31/2024,Tiffany Guo,F,tiffany18@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO46117,03/31/2024,Clayton Rai,F,clayton35@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO46118,03/31/2024,Carla Sullivan,F,carla15@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46116,03/31/2024,Emma Taylor,F,emma8@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46113,03/31/2024,Gabriel Green,F,gabriel45@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO46112,03/31/2024,Dennis Huang,F,dennis7@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,5,$25,$125
+SO46108,03/31/2024,Devin Henderson,F,devin43@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO46114,03/31/2024,Cedric Gao,F,cedric14@adventure-works.com,Los Angeles,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,4,$53,$212
+SO46111,03/31/2024,Devin Perez,F,devin35@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46115,03/31/2024,Mariah Ross,F,mariah8@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46109,03/31/2024,Sebastian Stewart,F,sebastian21@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO46110,03/31/2024,Abigail Howard,F,abigail16@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,5,$43,$215
+SO46123,04/01/2024,Adrian Ramirez,F,adrian9@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO46121,04/01/2024,Garrett Kelly,F,garrett6@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46120,04/01/2024,Fernando Johnson,F,fernando2@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46124,04/01/2024,Jodi Goel,F,jodi20@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46122,04/01/2024,Melissa Sanders,F,melissa26@adventure-works.com,Los Angeles,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO46129,04/02/2024,Evelyn Mehta,F,evelyn15@adventure-works.com,New York,Foundation,Skintint,3,$45,$135
+SO46125,04/02/2024,Alexandria Sandberg,F,alexandria27@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46128,04/02/2024,Samantha Lewis,F,samantha22@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46126,04/02/2024,Gabrielle Barnes,F,gabrielle25@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46127,04/02/2024,Connor Hernandez,F,connor45@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46138,04/03/2024,Ethan Bryant,F,ethan14@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46139,04/03/2024,Bonnie Jai,F,bonnie17@adventure-works.com,New York,Concealer,Match Stix Correcting Skinstick,1,$35,$35
+SO46131,04/03/2024,Joseph Garcia,F,joseph23@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46140,04/03/2024,Frederick Martinez,F,frederick14@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO46133,04/03/2024,Abigail Foster,F,abigail68@adventure-works.com,New York,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO46130,04/03/2024,Alyssa Cooper,F,alyssa35@adventure-works.com,New York,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46135,04/03/2024,Dale Goel,F,dale17@adventure-works.com,New York,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46136,04/03/2024,Johnathan Perez,F,johnathan20@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO46134,04/03/2024,Jenny Andersen,F,jenny35@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO46132,04/03/2024,Lori Sanz,F,lori20@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46137,04/03/2024,Dennis Hu,F,dennis22@adventure-works.com,New York,Lipstick,Icon Lipstick,2,$29,$58
+SO46142,04/04/2024,Gabrielle Peterson,F,gabrielle14@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46141,04/04/2024,Allison Edwards,F,allison22@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46145,04/04/2024,Eric Griffin,F,eric28@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46143,04/04/2024,Mathew Moreno,F,mathew2@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46144,04/04/2024,Sarah Butler,F,sarah39@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO46151,04/05/2024,Christian Johnson,F,christian31@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46149,04/05/2024,Xavier Simmons,F,xavier55@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,5,$28,$140
+SO46154,04/05/2024,Kara Anand,F,kara20@adventure-works.com,New York,Lipstick,Icon Semi-Matte Lipstick,3,$25,$75
+SO46148,04/05/2024,Makayla Ward,F,makayla11@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO46146,04/05/2024,Amy Sun,F,amy19@adventure-works.com,New York,Foundation,Skintint,1,$45,$45
+SO46147,04/05/2024,Sarah Anderson,F,sarah12@adventure-works.com,New York,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO46152,04/05/2024,Marie Romero,F,marie32@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46153,04/05/2024,Mario Sharma,F,mario7@adventure-works.com,New York,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46150,04/05/2024,Patricia Patel,F,patricia8@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46158,04/06/2024,Larry Gutierrez,F,larry13@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46155,04/06/2024,Chloe Washington,F,chloe80@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46159,04/06/2024,Veronica Srini,F,veronica9@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46156,04/06/2024,Miguel Sanchez,F,miguel72@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46157,04/06/2024,Karen Zeng,F,karen31@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO46169,04/07/2024,Bailey Bailey,F,bailey13@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,4,$31,$124
+SO46165,04/07/2024,Kaitlyn Lee,F,kaitlyn45@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO46162,04/07/2024,Aaron Wang,F,aaron24@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,5,$43,$215
+SO46161,04/07/2024,Nicolas Chander,F,nicolas14@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO46167,04/07/2024,Kristina Kapoor,F,kristina1@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO46164,04/07/2024,Nathaniel Cooper,F,nathaniel9@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,5,$20,$100
+SO46163,04/07/2024,Alex Carter,F,alex39@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46160,04/07/2024,Sydney Bryant,F,sydney40@adventure-works.com,Los Angeles,Concealer,Pro Filt'R Instant Retouch Concealer,3,$37,$111
+SO46168,04/07/2024,Deanna Schmidt,F,deanna46@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,2,$28,$56
+SO46166,04/07/2024,Marcus Hayes,F,marcus72@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO46173,04/08/2024,Katie Shen,F,katie5@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO46171,04/08/2024,Evan Campbell,F,evan31@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46174,04/08/2024,Cara Hu,F,cara16@adventure-works.com,Chicago,Lipstick,Icon Lipstick,3,$29,$87
+SO46172,04/08/2024,Ana Washington,F,ana12@adventure-works.com,Chicago,Lipstick,Icon Lipstick,1,$29,$29
+SO46175,04/08/2024,Audrey Munoz,F,audrey8@adventure-works.com,Chicago,Foundation,Skintint,2,$45,$90
+SO46170,04/08/2024,Bonnie Raji,F,bonnie27@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46177,04/09/2024,Devin Simmons,F,devin53@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO46176,04/09/2024,Andre Perez,F,andre20@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,4,$35,$140
+SO46178,04/09/2024,Jon Yuan,F,jon47@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46181,04/10/2024,Jarrod Suri,F,jarrod0@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46180,04/10/2024,Aidan Perry,F,aidan8@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,2,$35,$70
+SO46182,04/10/2024,Kelvin Carson,F,kelvin11@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO46179,04/10/2024,Cheryl Ortega,F,cheryl24@adventure-works.com,Chicago,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46186,04/11/2024,Seth Martin,F,seth15@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO46191,04/11/2024,Krista Romero,F,krista10@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO46184,04/11/2024,Ebony Jimenez,F,ebony28@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46187,04/11/2024,Jill Martinez,F,jill7@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46189,04/11/2024,Jocelyn Coleman,F,jocelyn6@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,2,$31,$62
+SO46188,04/11/2024,Maurice Ashe,F,maurice23@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46190,04/11/2024,Gerald Madan,F,gerald37@adventure-works.com,Chicago,Lipgloss,Poutsicle Hydrating Lip,3,$31,$93
+SO46185,04/11/2024,Gloria Carlson,F,gloria19@adventure-works.com,Chicago,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46183,04/11/2024,Bethany Tang,F,bethany7@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46198,04/12/2024,Terry Rai,F,terry20@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46197,04/12/2024,Connor Butler,F,connor9@adventure-works.com,Chicago,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO46200,04/12/2024,Ethan Martinez,F,ethan31@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,5,$53,$265
+SO46199,04/12/2024,Javier Serrano,F,javier11@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO46193,04/12/2024,Veronica Arun,F,veronica7@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,5,$20,$100
+SO46201,04/12/2024,Jessie Zhou,F,jessie13@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46202,04/12/2024,April Tang,F,april4@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46195,04/12/2024,Haley Wood,F,haley21@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO46204,04/12/2024,Kathryn Chapman,F,kathryn14@adventure-works.com,Chicago,Lipgloss,Stunna Lip Paint,5,$28,$140
+SO46203,04/12/2024,Johnny Shan,F,johnny11@adventure-works.com,Chicago,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO46194,04/12/2024,Kevin Washington,F,kevin16@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46196,04/12/2024,Morgan Foster,F,morgan85@adventure-works.com,Chicago,Foundation,Pro Filt'R Pro Longwear Foundation,5,$45,$225
+SO46192,04/12/2024,Russell Raje,F,russell16@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46209,04/13/2024,Adam Baker,F,adam38@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46210,04/13/2024,Janelle Fernandez,F,janelle12@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46205,04/13/2024,Luke Mitchell,F,luke43@adventure-works.com,Chicago,Highlighter,Killawatt Freestyle Highlighter,1,$53,$53
+SO46208,04/13/2024,Deanna Ashe,F,deanna10@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46206,04/13/2024,Edward Hughes,F,edward60@adventure-works.com,Chicago,Lipstick,Icon Semi-Matte Lipstick,2,$25,$50
+SO46207,04/13/2024,Chloe Bennett,F,chloe67@adventure-works.com,Chicago,Highlighter,Diamond Bomb All-Over Diamond Veil,1,$53,$53
+SO46211,04/14/2024,Gabriel Zhang,F,gabriel20@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46217,04/14/2024,Gregory Shan,F,gregory13@adventure-works.com,Texas,Concealer,Match Stix Correcting Skinstick,2,$35,$70
+SO46215,04/14/2024,Curtis Gao,F,curtis11@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Matte Powder Foundation,2,$43,$86
+SO46216,04/14/2024,Alfredo Ramos,F,alfredo18@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,4,$20,$80
+SO46212,04/14/2024,Dalton Edwards,F,dalton44@adventure-works.com,Texas,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46213,04/14/2024,Aaron Young,F,aaron49@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46214,04/14/2024,Tristan Ross,F,tristan4@adventure-works.com,Texas,Contour,Match Stix Contour Skinstick,1,$20,$20
+SO46227,04/15/2024,Joanna Vazquez,F,joanna13@adventure-works.com,Texas,Concealer,Pro Filt'R Instant Retouch Concealer,2,$37,$74
+SO46228,04/15/2024,Rosa Wang,F,rosa1@adventure-works.com,Texas,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO46218,04/15/2024,Derek Tang,F,derek4@adventure-works.com,Texas,Lipstick,Icon Semi-Matte Lipstick,1,$25,$25
+SO46224,04/15/2024,Arianna Diaz,F,arianna19@adventure-works.com,Texas,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO46222,04/15/2024,Kyle Hayes,F,kyle18@adventure-works.com,Texas,Lipstick,Icon Lipstick,1,$29,$29
+SO46223,04/15/2024,Savannah Sanders,F,savannah2@adventure-works.com,Texas,Foundation,Skintint,1,$45,$45
+SO46226,04/15/2024,Kate Anand,F,kate19@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46220,04/15/2024,Wayne Chander,F,wayne18@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46219,04/15/2024,Abigail Thompson,F,abigail56@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46221,04/15/2024,Xavier Flores,F,xavier52@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46225,04/15/2024,Mariah Rivera,F,mariah41@adventure-works.com,Los Angeles,Foundation,Skintint,1,$45,$45
+SO46233,04/16/2024,Sarah Henderson,F,sarah30@adventure-works.com,Los Angeles,Lipstick,Icon Semi-Matte Lipstick,5,$25,$125
+SO46237,04/16/2024,Summer Smith,F,summer7@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46235,04/16/2024,Steven Kelly,F,steven12@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46234,04/16/2024,Bianca Guo,F,bianca14@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,3,$29,$87
+SO46236,04/16/2024,Shannon Yang,F,shannon5@adventure-works.com,Los Angeles,Concealer,Match Stix Shimmer Skinstick,1,$35,$35
+SO46232,04/16/2024,Chloe Nelson,F,chloe6@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46231,04/16/2024,Meredith Serrano,F,meredith40@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,2,$29,$58
+SO46230,04/16/2024,Dawn Wu,F,dawn8@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46229,04/16/2024,Beth Gutierrez,F,beth13@adventure-works.com,Los Angeles,Foundation,Skintint,3,$45,$135
+SO46244,04/17/2024,Beth Alonso,F,beth10@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Matte Powder Foundation,1,$43,$43
+SO46239,04/17/2024,Chelsea Martinez,F,chelsea19@adventure-works.com,Los Angeles,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46238,04/17/2024,Darren Alvarez,F,darren26@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO46245,04/17/2024,Bridget Xu,F,bridget6@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,1,$22,$22
+SO46240,04/17/2024,Abigail Coleman,F,abigail74@adventure-works.com,Los Angeles,Lipgloss,Poutsicle Hydrating Lip,1,$31,$31
+SO46243,04/17/2024,Lindsay Raje,F,lindsay14@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,2,$20,$40
+SO46242,04/17/2024,Alicia Goel,F,alicia15@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46241,04/17/2024,Wyatt Turner,F,wyatt43@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO46250,04/18/2024,Carmen Rana,F,carmen14@adventure-works.com,Los Angeles,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46248,04/18/2024,Alexia Flores,F,alexia10@adventure-works.com,Los Angeles,Highlighter,Diamond Bomb All-Over Diamond Veil,2,$53,$106
+SO46247,04/18/2024,Kathryn Nara,F,kathryn15@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Cream Universal,2,$22,$44
+SO46249,04/18/2024,Ashley Russell,F,ashley47@adventure-works.com,Los Angeles,Lipstick,Icon Lipstick,1,$29,$29
+SO46251,04/18/2024,Donna Sharma,F,donna9@adventure-works.com,Los Angeles,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46246,04/18/2024,Logan Turner,F,logan31@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO46254,04/19/2024,Caitlin Brooks,F,caitlin1@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46257,04/19/2024,Tonya Chande,F,tonya14@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO46253,04/19/2024,Lauren Sanchez,F,lauren0@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO46252,04/19/2024,Cory Kapoor,F,cory19@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,5,$45,$225
+SO46256,04/19/2024,Barbara Wang,F,barbara11@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46255,04/19/2024,Kelli Anand,F,kelli45@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46256,04/19/2024,Kelli Anand,F,kelli45@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,1,$45,$45
+SO46257,04/19/2024,Kelli Anand,F,kelli45@adventure-works.com,New York,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46258,04/19/2024,Kelli Anand,F,kelli45@adventure-works.com,New York,Lipstick,Icon Lipstick,1,$29,$29
+SO46259,04/20/2024,Liogan Anand,M,kelli45@adventure-works.com,Chicago,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46260,04/20/2024,Kelli Tonye,M,kelli45@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO46261,04/20/2024,Catiline Turner,F,kelli45@adventure-works.com,Los Angeles,Lipgloss,Gloss Bomb Heat Universal,3,$25,$75
+SO46262,04/22/2024,Brooke Davids,F,kelli45@adventure-works.com,New York,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46263,04/22/2024,Lauren Tonye,F,kelli45@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46264,04/22/2024,Beth Chelsea,F,kelli45@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,1,$25,$25
+SO46265,04/23/2024,Ma Sung,F,kelli45@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO46266,04/23/2024,Dave Fish,F,kelli45@adventure-works.com,Texas,Foundation,Pro Filt'R Pro Longwear Foundation,2,$45,$90
+SO46267,04/23/2024,Sushi Una,F,kelli45@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46268,04/23/2024,Derr Derek,M,kelli45@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO46269,04/23/2024,Chel Stead,F,kelli45@adventure-works.com,Chicago,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,3,$53,$159
+SO46270,04/24/2024,Wes Der,M,kelli45@adventure-works.com,Chicago,Lipstick,Icon Lipstick,2,$29,$58
+SO46271,04/24/2024,Kellly Kelly,F,kelli45@adventure-works.com,Chicago,Lipstick,Icon Lipstick,2,$29,$58
+SO46272,04/24/2024,Usman Fey,F,kelli45@adventure-works.com,Los Angeles,Foundation,Skintint,2,$45,$90
+SO46273,04/24/2024,Sally Holstead,F,kelli45@adventure-works.com,New York,Lipgloss,Stunna Lip Paint,1,$28,$28
+SO46274,04/24/2024,Amy Usman,F,kelli45@adventure-works.com,New York,Foundation,Pro Filt'R Pro Longwear Foundation,3,$45,$135
+SO46275,04/24/2024,Dan Tori,F,kelli45@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46276,04/25/2024,Dan Tori,F,kelli45@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46277,04/25/2024,Dan Tori,F,kelli45@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46278,04/26/2024,Dan Tori,F,kelli45@adventure-works.com,New York,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46279,04/26/2024,Dan Tori,F,kelli45@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46280,04/27/2024,Dan Tori,F,kelli45@adventure-works.com,Chicago,Contour,Match Stix Contour Skinstick,3,$20,$60
+SO46281,04/27/2024,Albert Russ,F,kelli45@adventure-works.com,Chicago,Foundation,Skintint,5,$45,$225
+SO46282,04/27/2024,Albert Russ,F,kelli45@adventure-works.com,Chicago,Foundation,Skintint,4,$45,$180
+SO46283,04/27/2024,Albert Russ,F,kelli45@adventure-works.com,Chicago,Foundation,Skintint,1,$45,$45
+SO46284,04/27/2024,Albert Russ,F,kelli45@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,2,$25,$50
+SO46285,04/27/2024,Chel Stead,F,kelli45@adventure-works.com,Texas,Lipgloss,Gloss Bomb Heat Universal,3,$25,$75
+SO46286,04/27/2024,Chel Stead,F,kelli45@adventure-works.com,Texas,Highlighter,Liquid Killawatt Fluid Freestyle Highlighter,1,$53,$53
+SO46287,04/27/2024,Chel Stead,F,kelli45@adventure-works.com,Texas,Lipstick,Icon Lipstick,4,$29,$116
