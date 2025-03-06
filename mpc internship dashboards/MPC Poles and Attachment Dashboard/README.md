@@ -45,6 +45,12 @@ By replacing manual data entry and yearly updates with **automated Oracle SQL qu
 
 ---
 
+## Screenshots   
+![Dashboard Screenshot](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20FAES%20Form%20Completion%20Dashboard/faes1.png)  
+![Dashboard Screenshot2](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20FAES%20Form%20Completion%20Dashboard/faes2.png)
+
+---
+
 ## How to Use  
 
 Since the **Power BI files are not included**, you can explore:  
