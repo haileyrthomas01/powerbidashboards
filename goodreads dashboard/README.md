@@ -11,7 +11,7 @@ This dashboard visualizes key book statistics, including publication trends, top
 ## Dataset  
 - **Source:** Kaggle (via DataScience Roadmap YouTube)  
 - **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=qiLViMzzANE&list=PL7RSbI9s6KhhQqxFpkPVCHykgrWPK41gS)  
-- **Kaggle Dataset:** [Goodreads Books](https://www.kaggle.com/zygmunt/goodbooks-10k)  
+- **Kaggle Dataset:** [Goodreads Books](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)  
 - **File:** `goodreads_data.csv`  
 
 ## Tools Used  
