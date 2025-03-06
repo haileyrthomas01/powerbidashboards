@@ -39,7 +39,7 @@ To streamline updates, I leveraged **GIS tools**, **Excel tracking sheets**, and
 ---
 
 ## Screenshots   
-![Dashboard Screenshot](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20JETS%20Form%20Completion%20Dashboard/jetsdashboard.png)  
+![Dashboard Screenshot](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20JETS%20Form%20Completion%20Dashboard/jetsdashboard.PNG)  
 
 ---
 
