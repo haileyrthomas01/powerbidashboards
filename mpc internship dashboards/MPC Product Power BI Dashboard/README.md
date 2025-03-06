@@ -47,6 +47,14 @@ Building upon the success of the **MP FAES Form Completion Project**, this dashb
 
 ---
 
+## Screenshots   
+![Dashboard Screenshot](/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/attachments.png)  
+![Dashboard Screenshot2](/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/entities.png)
+![Dashboard Screenshot3(/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/attachments.png)  
+![Dashboard Screenshot4](/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/entities.png)
+
+---
+
 ## How to Use  
 
 Since the **Power BI files are not included**, you can explore:  
