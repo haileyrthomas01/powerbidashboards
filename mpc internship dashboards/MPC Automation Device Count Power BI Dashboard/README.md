@@ -33,7 +33,7 @@ This dashboard enables **real-time monitoring and analysis** of critical automat
 
 ## Technical Details  
 
-- **SQL Queries**: Available in the [`/sql`](sql/) folder.  
+- **SQL Queries**: Available in the [`/sql`](powerbidashboards/mpc internship dashboards/MPC Automation Device Count Power BI Dashboard/Automation Device Count SQL Queries/) folder.  
 - **Data Source**: Oracle SQL Developer  
 
 This dashboard eliminates the need for manual report generation and enhances real-time data retrieval, making it a valuable tool for data-driven decision-making.
