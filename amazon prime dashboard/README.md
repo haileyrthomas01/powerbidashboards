@@ -21,3 +21,10 @@ This dashboard provides insights into Prime Video's content library, including t
 
 ## Dashboard Preview  
 ![Prime Video Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/amazon%20prime%20dashboard/amazondash.png)  
+
+## Repository Structure  
+- Amazon_Prime_Dashboard
+  - data/amazon_prime_titles.csv
+  - images/amazon_dash.png
+  - amazonprimedashboard.pbix
+  - README.md
