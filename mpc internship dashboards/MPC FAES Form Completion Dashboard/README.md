@@ -33,7 +33,7 @@ To manage and track the work orders efficiently, I utilized an **Excel sheet** c
 
 ## Repository Contents  
 
-- **Screenshots**: Available in the [`/MPC FAES Form Completion Dashboard`](screenshots/) folder, providing a visual representation of FAES data.   
+- **Screenshots**: Available in the [`/MPC FAES Form Completion Dashboard`](/mpc%20internship%20dashboards/MPC%20FAES%20Form%20Completion%20Dashboard/) folder, providing a visual representation of FAES data.   
 
 ---
 
