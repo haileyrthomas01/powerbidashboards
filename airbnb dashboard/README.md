@@ -20,7 +20,7 @@ This Power BI dashboard analyzes **Airbnb listings in New York City**, helping u
 - Python (Pandas for preprocessing)  
 
 ## Dashboard Preview  
-([airbnb dashboard/airbnbdash.png](https://github.com/haileyrthomas01/powerbidashboards/blob/main/airbnb%20dashboard/airbnbdash.png))  
+![Airbnb Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/airbnb%20dashboard/airbnbdash.png)
 
 ## How to Use  
 1. **Download the `.pbix` file** and open in Power BI.  
