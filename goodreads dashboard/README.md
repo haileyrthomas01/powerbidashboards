@@ -16,7 +16,7 @@ This dashboard visualizes key book statistics, including publication trends, top
 
 ## Tools Used  
 - Power BI  
-- SQL (if applicable)  
+- Excel
 
 ## Dashboard Preview  
 ![Goodreads Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/goodreads%20dashboard/goodreadsdash.png)  
