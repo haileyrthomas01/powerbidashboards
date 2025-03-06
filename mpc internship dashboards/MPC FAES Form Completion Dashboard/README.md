@@ -37,6 +37,12 @@ To manage and track the work orders efficiently, I utilized an **Excel sheet** c
 
 ---
 
+## Screenshots   
+![Dashboard Screenshot](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20Automation%20Device%20Count%20Power%20BI%20Dashboard/automationdevicecountsdash.PNG)  
+![Dashboard Screenshot2](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20Automation%20Device%20Count%20Power%20BI%20Dashboard/primarymiles.png)
+
+---
+
 ## How to Use  
 
 Since this project involved **GIS-based updates**, you can explore:  
