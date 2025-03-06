@@ -16,7 +16,7 @@ This dashboard analyzes the streaming performance of various songs, breaking dow
 - Excel 
 
 ## Dashboard Preview  
-![Spotify Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/spotify%20streams%20dashboard/spotifydash.png)  
+![Spotify Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/spotify%20dashboard/spotifydash.png)  
 
 ## Repository Structure  
 - Spotify_Dashboard
