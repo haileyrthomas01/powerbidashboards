@@ -12,7 +12,8 @@ This dashboard provides insights into Sephora’s product catalog and customer p
 - **File:** `product_info.csv`  
 
 ## Tools Used  
-- Power BI  
+- Power BI
+- Excel 
 
 ## Dashboard Preview  
 ![Sephora Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/sephora%20dashboard/sephoradash.png)  
