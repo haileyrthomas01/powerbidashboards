@@ -40,8 +40,7 @@ This dashboard eliminates the need for manual report generation and enhances rea
 
 ---
 
-## Screenshots  
-*(Include links or embed images if possible, e.g.,)*  
+## Screenshots   
 ![Dashboard Screenshot](https://github.com/haileyrthomas01/powerbidashboards/blob/main/mpc%20internship%20dashboards/MPC%20Automation%20Device%20Count%20Power%20BI%20Dashboard/automationdevicecountsdash.PNG)  
 
 ---
