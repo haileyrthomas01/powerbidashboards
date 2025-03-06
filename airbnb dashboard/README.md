@@ -16,7 +16,8 @@ This Power BI dashboard analyzes **Airbnb listings in New York City**, helping u
 
 ## Tools Used  
 - Power BI  
-- SQL (if applicable)  
+- SQL
+- Excel
 - Python (Pandas for preprocessing)  
 
 ## Dashboard Preview  
