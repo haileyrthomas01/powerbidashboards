@@ -10,7 +10,7 @@ This dashboard provides an in-depth analysis of Data Science salaries, breaking 
 ## Dataset  
 - **Source:** Kaggle (via DataScience Roadmap YouTube)  
 - **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=WQ6Jko2wUhw&list=PL7RSbI9s6KhhQqxFpkPVCHykgrWPK41gS&index=6)  
-- **Kaggle Dataset:** [Data Science Salaries 2023]([https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries))  
+- **Kaggle Dataset:** [Data Science Salaries 2023]((https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries))  
 - **File:** `ds_salaries.csv`  
 
 ## Tools Used  
