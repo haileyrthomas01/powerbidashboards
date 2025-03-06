@@ -19,7 +19,7 @@ This dashboard provides insights into IBM’s employee demographics and job role
 - Excel
 
 ## Dashboard Preview  
-![IBM HR Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/ibm%20hr%20dashboard/ibmhrdash.png)  
+![IBM HR Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/ibm%20dashboard/ibmdash.png)  
 
 ## Repository Structure  
 - IBM_HR_Dashboard
