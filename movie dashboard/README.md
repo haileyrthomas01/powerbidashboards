@@ -17,7 +17,7 @@ This dashboard explores the profitability of top 100 movies, analyzing revenue t
 - Power BI  
 
 ## Dashboard Preview  
-![Profitable Movies Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/most%20profitable%20movies%20dashboard/moviedash.png)  
+![Profitable Movies Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/movie%20dashboard/moviedash.png)  
 
 ## Repository Structure  
 - Movies_Dashboard
