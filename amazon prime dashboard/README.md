@@ -15,7 +15,8 @@ This dashboard provides insights into Prime Video's content library, including t
 - **File:** `amazon_prime_titles.csv`  
 
 ## Tools Used  
-- Power BI  
+- Power BI
+- Excel
 - Python (Data cleaning with Pandas)  
 
 ## Dashboard Preview  
