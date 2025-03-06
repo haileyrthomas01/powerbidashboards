@@ -16,7 +16,7 @@ This dashboard analyzes Fenty Beauty’s sales, breaking down orders, profits, a
 - Excel
 
 ## Dashboard Preview  
-![Fenty Beauty Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/fenty%20beauty%20dashboard/fentybeautydash.png)  
+![Fenty Beauty Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/fenty%20dashboard/fentybeautydash.png)  
 
 ## Repository Structure  
 - Fenty_Beauty_Sales_Dashboard
