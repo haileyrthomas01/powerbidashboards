@@ -34,7 +34,7 @@ To streamline updates, I leveraged **GIS tools**, **Excel tracking sheets**, and
 ## Repository Contents  
 
 - **Screenshots**: Available in the [`/MPC JETS Form Completion Dashboard`](/mpc%20internship%20dashboards/MPC%20JETS%20Form%20Completion%20Dashboard/) folder, providing a visual representation of JETS data.  
-- **SQL Queries**: Available in the [`/SQL Queries (2023)`](/mpc%20internship%20dashboards/MPC%20JETS%20Form%20Completion%20Dashboard/) folder for data extraction and validation.  
+- **SQL Queries**: Available in the [`/SQL Queries (2023)`](/mpc%20internship%20dashboards/SQL%20Queries/SQL%20Queries%20(2023)) folder for data extraction and validation.  
 
 ---
 
