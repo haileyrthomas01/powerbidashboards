@@ -37,7 +37,7 @@ By replacing manual data entry and yearly updates with **automated Oracle SQL qu
 
 ## Technical Details  
 
-- **SQL Queries**: Available in the [`/SQL Queries`](sql/) folder.  
+- **SQL Queries**: Available in the [`/SQL Queries`](/mpc%20internship%20dashboards/SQL%20Queries) folder.  
 - **Dashboard Screenshots**: Available in the [`/MPC Poles and Attachment Dashboard`](/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/) folder.  
 - **Data Source**: Oracle SQL Developer.  
 
