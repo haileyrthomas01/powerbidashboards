@@ -36,7 +36,7 @@ By utilizing **Oracle SQL Developer**, I optimized database queries to streamlin
 ## How to Use  
 
 1. **SQL Files Location**  
-   - Queries are stored in the [`/sql`](/mpc%20internship%20dashboards/SQL%20Queries) folder, organized by the year I completed the project (2023 or 2024).  
+   - Queries are stored in the [`/SQL Queries`](/mpc%20internship%20dashboards/SQL%20Queries) folder, organized by the year I completed the project (2023 or 2024).  
 
 2. **Database Compatibility**  
    - These queries were designed for **Oracle SQL Developer** but can be modified for other SQL platforms.  
