@@ -34,8 +34,8 @@ This repository contains **SQL queries and Power BI dashboard screenshots** from
 
 ## Repository Contents  
 
-- **`/screenshots`** – Contains approved screenshots of Power BI dashboards.  
-- **`/sql`** – Contains SQL queries used for data extraction and transformation.  
+- Each folder for each dashboard ontains approved screenshots of Power BI dashboards.  
+- **`/SQL Queries`** – Contains SQL queries used for data extraction and transformation.  
 
 *(Note: The actual `.pbix` Power BI files are not included due to security policies.)*  
 
