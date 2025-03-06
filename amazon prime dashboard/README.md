@@ -19,4 +19,4 @@ This dashboard provides insights into Prime Video's content library, including t
 - Python (Data cleaning with Pandas)  
 
 ## Dashboard Preview  
-![Prime Video Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/prime%20video%20dashboard/amazondash.png)  
+![Prime Video Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/amazon%20prime%20dashboard/amazondash.png)  
