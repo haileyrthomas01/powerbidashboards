@@ -30,9 +30,9 @@ This Power BI dashboard analyzes **Airbnb listings in New York City**, helping u
 
 ## Repository Structure  
 - Airbnb_NYC_Dashboard
-  - data/airbnb_nyc.csv
-  - images/dashboard_screenshot.png
-  - Airbnb_NYC.pbix
+  - data/AB_NYC_2019.csv
+  - images/airbnbdash.png
+  - airbnbnycdashboard.pbix
   - README.md
 
 
