@@ -39,7 +39,7 @@ Building upon the success of the **MP FAES Form Completion Project**, this dashb
 
 ## Technical Details  
 
-- **SQL Queries**: Available in the [`/sql`](sql/) folder.  
+- **SQL Queries**: Available in the [`/SQL Queries`](/mpc%20internship%20dashboards/SQL%20Queries) folder.  
 - **Dashboard Screenshots**: Available in the [`/MPC Product Power BI Dashboard`](/mpc%20internship%20dashboards/MPC%20Product%20Power%20BI%20Dashboard/) folder.  
 - **Data Source**: DistGIS ArcMap and Oracle SQL Developer.  
 
