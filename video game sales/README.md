@@ -20,7 +20,7 @@ This dashboard analyzes global video game sales trends from 1980 to 2016.
 - Python  
 
 ## Dashboard Preview  
-![Video Game Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/video%20game%20sales%20dashboard/vgdash.png)  
+![Video Game Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/video%20game%20sales/vgdash.png)  
 
 ## Repository Structure  
 - Video_Game_Sales_Dashboard
