@@ -19,4 +19,4 @@ This dashboard provides an in-depth analysis of Data Science salaries, breaking 
 - Python (Pandas)  
 
 ## Dashboard Preview  
-![Data Science Salary Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/data%20science%20salary%20dashboard/datasciencesalarydash.png)  
+![Data Science Salary Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/data%20science%20salary%20dashboard/dsdash.png)  
