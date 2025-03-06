@@ -11,7 +11,7 @@ This dashboard provides insights into Prime Video's content library, including t
 ## Dataset  
 - **Source:** Kaggle (via DataScience Roadmap YouTube)  
 - **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=_xs8XXlGQVM&list=PL7RSbI9s6KhhQqxFpkPVCHykgrWPK41gS&index=2)  
-- **Kaggle Dataset:** [Prime Video Movies](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRTVndDMEJRY3hZMGVja2lrUElMTmU2RGRNZ3xBQ3Jtc0ttZ09iM2Y4NVAxRzRXVENUV01Bc1VaSVhTLVR5aWYwaFNfd0ppbEdjTk90aEFCTEhXbHJDR3pXZ3UzUFRmTWtfUHQ4dm1SeUk3SjNvLWNXbnBOWDU3bWVvTHpDcC00Sk4weUI3T05Ha2s4b1pUYS1DWQ&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fshivamb%2Famazon-prime-movies-and-tv-shows&v=_xs8XXlGQVM)  
+- **Kaggle Dataset:** [Prime Video Movies](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)  
 - **File:** `amazon_prime_titles.csv`  
 
 ## Tools Used  
