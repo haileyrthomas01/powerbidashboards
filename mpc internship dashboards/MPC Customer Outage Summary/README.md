@@ -50,7 +50,7 @@ By integrating **date range slicers** and optimizing **DAX calculations**, this 
 ## Technical Details  
 
 - **SQL Queries**: Available in the [`/sql`](sql/) folder.  
-- **Dashboard Screenshots**: Available in the [`/screenshots`](screenshots/) folder.  
+- **Dashboard Screenshots**: Available in the [`/screenshots`](/mpc%20internship%20dashboards/MPC%20Customer%20Outage%20Summary) folder.  
 - **Data Source**: Oracle SQL Developer.  
 
 *(Note: The `.pbix` Power BI files are not included due to security policies.)*  
