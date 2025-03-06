@@ -37,8 +37,8 @@ By replacing manual data entry and yearly updates with **automated Oracle SQL qu
 
 ## Technical Details  
 
-- **SQL Queries**: Available in the [`/sql`](sql/) folder.  
-- **Dashboard Screenshots**: Available in the [`/screenshots`](screenshots/) folder.  
+- **SQL Queries**: Available in the [`/SQL Queries`](sql/) folder.  
+- **Dashboard Screenshots**: Available in the [`/MPC Poles and Attachment Dashboard`](/mpc%20internship%20dashboards/MPC%20Poles%20and%20Attachment%20Dashboard/) folder.  
 - **Data Source**: Oracle SQL Developer.  
 
 *(Note: The `.pbix` Power BI files are not included due to security policies.)*  
