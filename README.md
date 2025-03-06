@@ -11,63 +11,63 @@ This repository is organized into individual folders for each dashboard. Each fo
 
 ## Dashboards Overview
 
-### 1. [**Airbnb NYC Stats Dashboard**](./airbnb%20dashboard/)
+### 1. [**Airbnb NYC Stats Dashboard**](./Airbnb-NYC-Stats-Dashboard/)
    - **Description**: Visualizes key metrics of Airbnb listings in NYC such as average reviews, total reviews, neighborhood group slicers, and room type slicers.
    - **Key Insights**: Understand the trends of Airbnb listings and reviews in various neighborhoods of NYC.
 
-### 2. **Prime Video Dashboard**
+### 2. [**Prime Video Dashboard**](./Prime-Video-Dashboard/)
    - **Description**: Offers a comprehensive analysis of Prime Video's content, including total titles, ratings, genres, and more.
    - **Key Insights**: Visualize content breakdown by year, director, genre, and ratings.
 
-### 3. **Data Science Salary Dashboard**
+### 3. [**Data Science Salary Dashboard**](./Data-Science-Salary-Dashboard/)
    - **Description**: Provides an in-depth look at data science salaries, with insights into salary by job title, company location, experience level, and employment type.
    - **Key Insights**: Analyze trends in salary across different locations and experience levels in the data science field.
 
-### 4. **Goodreads Stats Dashboard**
+### 4. [**Goodreads Stats Dashboard**](./Goodreads-Stats-Dashboard/)
    - **Description**: Visualizes the Goodreads book database, with filters like publication date, top language codes, authors, publishers, and ratings.
    - **Key Insights**: Discover popular authors, book ratings, and trends in the publication dates of popular books.
 
-### 5. **IBM HR Data Dashboard**
+### 5. [**IBM HR Data Dashboard**](./IBM-HR-Data-Dashboard/)
    - **Description**: Displays employee demographics such as age, gender, job role, education field, and hourly rate.
    - **Key Insights**: Get detailed insights into the HR data of IBM employees.
 
-### 6. **100 Most Profitable Movies Dashboard**
+### 6. [**100 Most Profitable Movies Dashboard**](./100-Most-Profitable-Movies-Dashboard/)
    - **Description**: Analyzes the profitability of the top 100 most profitable movies, with slicers for lead studio, genre, and release year.
    - **Key Insights**: Uncover trends in the movie industry regarding profitability by genre and studio.
 
-### 7. **Netflix Dashboard**
+### 7. [**Netflix Dashboard**](./Netflix-Dashboard/)
    - **Description**: Offers an overview of Netflix’s content library, including total titles, ratings, genres, and top countries.
    - **Key Insights**: Visualize Netflix's content distribution and identify patterns in user ratings across genres.
 
-### 8. **Olympic Dashboard**
+### 8. [**Olympic Dashboard**](./Olympic-Dashboard/)
    - **Description**: Displays total medals won by country, athlete metrics, and other Olympic-related statistics.
    - **Key Insights**: Explore medal distributions across countries, athletes, and years.
 
-### 9. **TripAdvisor Stats Dashboard**
+### 9. [**TripAdvisor Stats Dashboard**](./TripAdvisor-Stats-Dashboard/)
    - **Description**: Shows key statistics from TripAdvisor, including users by continent, total hotels, average scores, and hotels by stars.
    - **Key Insights**: Gain insights into the distribution of TripAdvisor users and hotels worldwide.
 
-### 10. **Video Game Sales Dashboard**
+### 10. [**Video Game Sales Dashboard**](./Video-Game-Sales-Dashboard/)
    - **Description**: Analyzes video game sales trends from 1980 to 2016, broken down by continent, genre, platform, and publisher.
    - **Key Insights**: Visualize trends in video game sales over time and by category.
 
-### 11. **Apple Music Dashboard**
+### 11. [**Apple Music Dashboard**](./Apple-Music-Dashboard/)
    - **Description**: Offers insights into Apple Music's catalog, including track release dates, top artists, genres, and collection details.
    - **Key Insights**: Explore trends in song releases, streamability, and popularity.
 
-### 12. **Fenty Beauty Sales Dashboard**
+### 12. [**Fenty Beauty Sales Dashboard**](./Fenty-Beauty-Sales-Dashboard/)
    - **Description**: Displays sales data for Fenty Beauty, including orders, profit, quantity sold, and total earnings by city.
    - **Key Insights**: Understand the sales performance and customer demographics for Fenty Beauty products.
 
-### 13. **Sephora Sales Dashboard**
+### 13. [**Sephora Sales Dashboard**](./Sephora-Sales-Dashboard/)
    - **Description**: Provides an overview of Sephora's sales data, including products, prices, ratings, and product category breakdowns.
    - **Key Insights**: Visualize customer preferences and sales performance for various beauty products.
 
-### 14. **Spotify Streams Dashboard**
+### 14. [**Spotify Streams Dashboard**](./Spotify-Streams-Dashboard/)
    - **Description**: Displays metrics for Spotify's music catalog, including song counts, genres, and audio characteristics such as tempo and loudness.
    - **Key Insights**: Discover music trends and patterns in audio characteristics.
 
-### 15. **Rap/Hip-Hop Dashboard**
+### 15. [**Rap/Hip-Hop Dashboard**](./Rap-Hip-Hop-Dashboard/)
    - **Description**: Visualizes data about the rap and hip-hop music industry, with insights into artists, albums, tracks, and critic ratings.
    - **Key Insights**: Explore trends in rap and hip-hop music, including top artists and albums.
 
