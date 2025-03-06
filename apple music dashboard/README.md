@@ -12,7 +12,8 @@ This dashboard provides an overview of Apple Music's catalog, analyzing artists,
 - **File:** `apple_music_data.csv`  
 
 ## Tools Used  
-- Power BI  
+- Power BI
+- Excel
 
 ## Dashboard Preview  
 ![Apple Music Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/apple%20music%20dashboard/applemusicdash.png)  
