@@ -20,3 +20,10 @@ This dashboard provides an in-depth analysis of Data Science salaries, breaking 
 
 ## Dashboard Preview  
 ![Data Science Salary Dashboard](https://github.com/haileyrthomas01/powerbidashboards/blob/main/data%20science%20salary%20dashboard/dsdash.png)  
+
+## Repository Structure  
+- DS_Salary_Dashboard
+  - data/ds_salaries.csv
+  - images/dsdash.png
+  - dssalarydashboard.pbix
+  - README.md
