@@ -11,7 +11,7 @@ This repository is organized into individual folders for each dashboard. Each fo
 
 ## Dashboards Overview
 
-### 1. [**Airbnb NYC Stats Dashboard**](./airbnb dashboard/)
+### 1. [**Airbnb NYC Stats Dashboard**](./airbnb-dashboard/)
    - **Description**: Visualizes key metrics of Airbnb listings in NYC such as average reviews, total reviews, neighborhood group slicers, and room type slicers.
    - **Key Insights**: Understand the trends of Airbnb listings and reviews in various neighborhoods of NYC.
 
